@@ -17,7 +17,7 @@
 1. Complete Project is created with Jswings
 2. Complete MySQL Database Integrations with this project
 3. Retrieving, Inserting, Deleting and Editing of Data from JFrame
-4. Used JDBS Connectivity
+4. Used JDBC Connectivity
 5. Using of Date and Time Library in the module
 6. Switching from one frame to another frame
 7. Login and Register page creation
